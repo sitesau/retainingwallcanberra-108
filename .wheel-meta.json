@@ -1,0 +1,22 @@
+{
+  "wheel_id": 446,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-108",
+  "project": "retaining-walls-canberra-diy-vs-professional-6134df9f4a4f2ca38c",
+  "parent_t1_ref": "retainingwallcanberra-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining walls canberra diy vs professional",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-canberra-diy-vs-professional-6134df9f4a4f2ca38c/",
+  "tier": "T2",
+  "writeback_nonce": "bc47822aeef83864",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-canberra-materials-compared-25ab1b6c87f859b2745.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Walls Canberra Materials Compared: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
